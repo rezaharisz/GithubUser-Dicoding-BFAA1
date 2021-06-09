@@ -6,3 +6,4 @@ What i use in this project is :
 - Parcelable
 - RecyclerView
 - Dummy data from Strings resources
+- Handler
