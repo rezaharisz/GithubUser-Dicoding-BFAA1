@@ -5,3 +5,4 @@ What i use in this project is :
 - Intent
 - Parcelable
 - RecyclerView
+- Dummy data from Strings resources
